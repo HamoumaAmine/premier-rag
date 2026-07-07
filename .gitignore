@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Environnement virtuel
+venv/
+
+# Base vectorielle ChromaDB
+chroma/
+
+# Cache Python
+__pycache__/
+*.pyc
